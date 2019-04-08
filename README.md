@@ -1,3 +1,7 @@
+## Comunication between components with props
+
+Simple example of how to comunicate components with props in function
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
